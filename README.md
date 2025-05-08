@@ -1,2 +1,11 @@
-# AyED
-Repositorio de entregas para TPs de la materia Algoritmos y Estructuras de Datos de Ing. Sistemas de UTN
+# TP0 Algoritmos y Estructura de Datos
+
+###### Profesor: Eduardo Zúñiga
+
+###### Alumno: Joaquín Peñalva
+
+###### Comisión: K1023
+
+
+### Resultado de ejecutar en consola:
+
